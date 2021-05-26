@@ -8,7 +8,7 @@
   - [x] Optional: [David Silver's slides on Intro to RL](others/intro_RL.pdf)
   - [ ] Optional: First (Introduction) chapter of Sutton-Barto book (pages 1-12)
   - [x] Optional: [Rich Sutton's slides on Intro to RL](others/1-admin-and-intro.pdf)
-  - [ ] Assignment: [Instructions to get set up for the course](assignments/assignment1.pdf)
+  - [x] Assignment: [Instructions to get set up for the course](assignments/assignment1.pdf)
 - [ ] 2. [Markov Processes (MP) and Markov Reward Processes (MRP)](slides/02.pdf)
   - [ ] Chapter 1 (pages 35-73) of RLForFinanceBook
   - [ ] Optional: [David Silver's video (on youtube) on MP/MRP/MDP](https://www.youtube.com/watch?v=lfHX2hHRMVQ)
