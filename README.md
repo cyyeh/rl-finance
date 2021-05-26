@@ -2,12 +2,12 @@
 
 ## Schedule with corresponding lecture slides, reading/videos, and assignments
 
-- [ ] 1. [Course Overview](slides/01.pdf)
-  - [ ] Overview Chapter (pages 9-29) of RLForFinanceBook
+- [x] 1. [Course Overview](slides/01.pdf)
+  - [x] Overview Chapter (pages 9-29) of RLForFinanceBook
   - [ ] Optional: [David Silver's corresponding video (youtube) on Intro to RL](https://www.youtube.com/watch?v=2pWv7GOvuf0)
-  - [ ] Optional: [David Silver's slides on Intro to RL](others/intro_RL.pdf)
+  - [x] Optional: [David Silver's slides on Intro to RL](others/intro_RL.pdf)
   - [ ] Optional: First (Introduction) chapter of Sutton-Barto book (pages 1-12)
-  - [ ] Optional: [Rich Sutton's slides on Intro to RL](others/1-admin-and-intro.pdf)
+  - [x] Optional: [Rich Sutton's slides on Intro to RL](others/1-admin-and-intro.pdf)
   - [ ] Assignment: [Instructions to get set up for the course](assignments/assignment1.pdf)
 - [ ] 2. [Markov Processes (MP) and Markov Reward Processes (MRP)](slides/02.pdf)
   - [ ] Chapter 1 (pages 35-73) of RLForFinanceBook
